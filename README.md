@@ -4,3 +4,7 @@ The development process of the WAHAJ app involved a comprehensive approach to cr
 <div align="center">
      <img src="![image](https://github.com/maram-a22/Wahaj/assets/108218379/524c5d8d-74b5-41bf-a658-99136c13663a)" alt="Image Name">
    </div>
+
+   <p align="center">
+     <img src="!(https://github.com/maram-a22/Wahaj/assets/108218379/524c5d8d-74b5-41bf-a658-99136c13663a)" alt="Image Name">
+   </p>
